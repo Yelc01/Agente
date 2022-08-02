@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'ConecTheHive'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_8B6FADF343904D4E99CE30D920A586DE }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_D360C2E0BF404CF8B762C12A01524FF4 }}
